@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Muhammed Awwal Musa  
 
-<!--
-**AhmNice/AhmNice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Node.js | TypeScript | React | PostgreSQL  
 
-Here are some ideas to get you started:
+I design and build scalable backend systems and modern web/mobile applications.  
+Currently developing real-world products, including task management platforms and secure authentication systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack:
+- Backend: Node.js, Express, TypeScript
+- Frontend: React, React Native
+- Database: PostgreSQL
+- Authentication: JWT (RSA), OAuth (Google & GitHub)
+
+⚙️ Strong focus on clean architecture, security, and production-ready systems — not just demos.
+
+📫 Open to collaboration, innovative projects, and impactful ideas.
