@@ -1,16 +1,31 @@
-👋 Hi, I'm Muhammed Awwal Musa  
+<h1 align="center">Muhammed Awwal Musa</h1>
 
-🚀 Full-Stack Developer | Node.js | TypeScript | React | PostgreSQL  
+<p align="center">
+Full-Stack Developer | Node.js | TypeScript | React | PostgreSQL
+</p>
 
-I design and build scalable backend systems and modern web/mobile applications.  
+<p align="center">
+I design and build scalable backend systems and modern web and mobile applications.
 Currently developing real-world products, including task management platforms and secure authentication systems.
+</p>
 
-🛠 Tech Stack:
-- Backend: Node.js, Express, TypeScript
-- Frontend: React, React Native
-- Database: PostgreSQL
-- Authentication: JWT (RSA), OAuth (Google & GitHub)
+---
 
-⚙️ Strong focus on clean architecture, security, and production-ready systems — not just demos.
+### Tech Stack
 
-📫 Open to collaboration, innovative projects, and impactful ideas.
+- **Backend:** Node.js, Express, TypeScript  
+- **Frontend:** React, React Native  
+- **Database:** PostgreSQL  
+- **Authentication:** JWT (RSA), OAuth (Google & GitHub)  
+
+---
+
+### Focus
+
+Strong focus on clean architecture, security, and production-ready systems.
+
+---
+
+### Contact
+
+Open to collaboration, innovative projects, and impactful ideas.
