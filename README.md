@@ -67,9 +67,9 @@ I'm a Computer Science graduate who enjoys turning real-world problems into reli
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Project Name](https://github.com/your-username/project)** | One line on what it does and the problem it solves. | Node.js, TypeScript, PostgreSQL |
-| **[Project Name](https://github.com/your-username/project)** | One line on what it does and the problem it solves. | React, Prisma, Docker |
-| **[Project Name](https://github.com/your-username/project)** | One line on what it does and the problem it solves. | React Native, Express |
+| **[Project Name](https://github.com/ahm_nice/project)** | One line on what it does and the problem it solves. | Node.js, TypeScript, PostgreSQL |
+| **[Project Name](https://github.com/ahm_nice/project)** | One line on what it does and the problem it solves. | React, Prisma, Docker |
+| **[Project Name](https://github.com/ahm_nice/project)** | One line on what it does and the problem it solves. | React Native, Express |
 
 ---
 
@@ -85,12 +85,12 @@ I'm a Computer Science graduate who enjoys turning real-world problems into reli
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahm_nice&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm_nice&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
 
 ## Let's Connect
 
-I'm open to **software engineering roles, collaborations, and interesting projects**. The best way to reach me is by [email](mailto:your.email@example.com) or [LinkedIn](https://linkedin.com/in/your-handle).
+I'm open to **software engineering roles, collaborations, and interesting projects**. The best way to reach me is by [email](mailto:your.talk2muhammed@gmail.com) or [LinkedIn](https://www.linkedin.com/in/musa-muhammed-awwal-3bbb46235/).
