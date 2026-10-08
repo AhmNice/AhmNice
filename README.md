@@ -65,11 +65,12 @@ I'm a Computer Science graduate who enjoys turning real-world problems into reli
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Project Name](https://github.com/ahm_nice/project)** | One line on what it does and the problem it solves. | Node.js, TypeScript, PostgreSQL |
-| **[Project Name](https://github.com/ahm_nice/project)** | One line on what it does and the problem it solves. | React, Prisma, Docker |
-| **[Project Name](https://github.com/ahm_nice/project)** | One line on what it does and the problem it solves. | React Native, Express |
+| Project                                               | Description                                                                                                                                            | Stack                                                                |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| **[DevCheck](https://github.com/AhmNice/DevCheck)**   | A developer execution platform for organizing projects, managing tasks, tracking progress, and integrating development workflows.                      | React, TypeScript, Node.js, Express, Prisma, PostgreSQL              |
+| **[ClassGrid](https://github.com/AhmNice/ClassGrid)** | A school timetable management system that helps schools generate and manage class schedules while preventing teacher, classroom, and period conflicts. | React, TypeScript, Node.js, Express, Prisma, PostgreSQL              |
+| **[Servo](https://github.com/AhmNice/Servo)**         | A fuel delivery platform that connects customers with fuel stations and streamlines fuel ordering and payment processing.                              | React Native, Expo, Node.js, Express, TypeScript, PostgreSQL, Prisma |
+
 
 ---
 
@@ -85,8 +86,8 @@ I'm a Computer Science graduate who enjoys turning real-world problems into reli
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahm_nice&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm_nice&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmNice&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmNice&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
